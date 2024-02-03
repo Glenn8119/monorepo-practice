@@ -1,4 +1,4 @@
-import { Button } from 'shared-ui'
+import { Button } from '@glenn/shared-ui'
 
 export default function Index() {
   return (
